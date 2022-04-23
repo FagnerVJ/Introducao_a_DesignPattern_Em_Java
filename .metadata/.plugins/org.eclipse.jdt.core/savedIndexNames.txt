@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\AS-Informatica\Desktop\IFSP-4°-Semestre\DOO\Designe_Patterns\.metadata\.plugins\org.eclipse.jdt.core
+1543801791.index
+1865797976.index
+2887631762.index
